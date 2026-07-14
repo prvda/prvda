@@ -7,10 +7,6 @@
       <stop offset="0.52" stop-color="#15241a"/>
       <stop offset="1" stop-color="#0b110d"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#a8dc13"/>
-      <stop offset="1" stop-color="#69a600"/>
-    </linearGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#dff7c4" stroke-opacity="0.055" stroke-width="1"/>
     </pattern>
@@ -25,16 +21,7 @@
   <circle cx="1120" cy="260" r="96" fill="#d7ff73" fill-opacity="0.11" filter="url(#glow)"/>
 
   <g transform="translate(76 62)">
-    <rect x="0" y="0" width="74" height="8" rx="4" fill="url(#accent)"/>
     <text x="0" y="94" fill="#f4f8f2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="82" font-weight="760" letter-spacing="5">PRVDA</text>
     <text x="2" y="137" fill="#b8c8ba" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="2.2">FULLSTACK  •  PRODUCT  •  WEB</text>
-    <text x="2" y="186" fill="#e6eee5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="400">Понятные продукты — от интерфейса до production</text>
-  </g>
-
-  <g transform="translate(905 94)" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="0" y="0" width="205" height="132" rx="24" fill="#152019" stroke="#89b607" stroke-opacity="0.55"/>
-    <path d="M36 43 18 66l18 23M169 43l18 23-18 23" stroke="#a8dc13" stroke-width="6"/>
-    <path d="m123 30-41 72" stroke="#e7f9bc" stroke-opacity="0.82" stroke-width="6"/>
-    <circle cx="102" cy="66" r="53" stroke="#eef9e9" stroke-opacity="0.08"/>
   </g>
 </svg>
