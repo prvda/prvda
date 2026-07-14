@@ -1,6 +1,15 @@
 ![PRVDA — Fullstack, Product, Web](./assets/profile-banner.svg)
 
-# Привет, я Влад Fullstack frontend / product engineer
+# Привет, я Влад 
+Fullstack frontend / product engineer
+
+## Основной стек
+
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS, HeroUI, Motion;
+- **Backend и CMS:** Node.js, Strapi, WordPress, WooCommerce;
+- **Данные:** PostgreSQL, MySQL/MariaDB, Prisma;
+- **Delivery:** Docker Compose, Nginx/Caddy, GitHub Actions, VPS;
+- **Качество:** ESLint, TypeScript, Playwright, smoke-тесты, SEO и accessibility-аудиты.
 
 ## Мои проекты
 
@@ -10,14 +19,6 @@
 | [BMA Russland](https://bmarussland.ru) | Мультиязычный корпоративный сайт и CMS |
 | [BST Project](https://bstproject.com) | Платформа сообщества переводчиков и Vendor Lists |
 | [TDN Food&Medical](https://tdn-co.ru) | Каталог производителя на WordPress и WooCommerce |
-
-## Основной стек
-
-- **Frontend:** Next.js, React, TypeScript, Tailwind CSS, HeroUI, Motion;
-- **Backend и CMS:** Node.js, Strapi, WordPress, WooCommerce;
-- **Данные:** PostgreSQL, MySQL/MariaDB, Prisma;
-- **Delivery:** Docker Compose, Nginx/Caddy, GitHub Actions, VPS;
-- **Качество:** ESLint, TypeScript, Playwright, smoke-тесты, SEO и accessibility-аудиты.
 
 ## Контакты
 
