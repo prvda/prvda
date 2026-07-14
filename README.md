@@ -1,7 +1,7 @@
 ![PRVDA — Fullstack, Product, Web](./assets/profile-banner.svg)
 
-# Привет, я Влад 
-Fullstack frontend / product engineer
+# Привет, я Влад — Fullstack frontend / product engineer
+
 
 ## Основной стек
 
