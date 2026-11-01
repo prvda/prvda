@@ -11,6 +11,6 @@
 - **Delivery:** Docker Compose, Nginx/Caddy, GitHub Actions, VPS;
 - **Качество:** ESLint, TypeScript, Playwright, smoke-тесты, SEO и accessibility-аудиты.
 
-##Контакты
+## Контакты
 
 - Telegram: [@prvda](https://t.me/prvda)
